@@ -1,0 +1,241 @@
+[{
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f048"
+	},
+	"image_path": null,
+	"name": "Altitude FC",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "594a55a0d01e011b0f8ea817"
+	},
+	"image_path": null,
+	"name": "Altitude FC",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f049"
+	},
+	"image_path": null,
+	"name": "Arsenal Colorado",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "5927eb48d01e01181660afe8"
+	},
+	"image_path": null,
+	"name": "Arsenal Colorado",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f05e"
+	},
+	"image_path": null,
+	"name": "Bear Creek Soccer",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f04a"
+	},
+	"image_path": null,
+	"name": "Boulder County FC",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f04b"
+	},
+	"image_path": null,
+	"name": "Broomfield",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f04c"
+	},
+	"image_path": null,
+	"name": "Catalunya",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f050"
+	},
+	"image_path": null,
+	"name": "Colorado Ice",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58d34d7cd01e010f0593be46"
+	},
+	"image_path": null,
+	"name": "Colorado Rapids",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "5956b00ad01e01503daea665"
+	},
+	"image_path": null,
+	"name": "Colorado Rapids",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f057"
+	},
+	"image_path": "/images/icon-colorado-rush_logo.png",
+	"name": "Colorado Rush",
+	"partner": true,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f047"
+	},
+	"image_path": "images/icon-colorado-storm.png",
+	"name": "Colorado Storm",
+	"partner": true,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "5959bf82d01e010cc04f37bc"
+	},
+	"image_path": null,
+	"name": "Colorado Storm",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f051"
+	},
+	"image_path": null,
+	"name": "Colorado United",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f04d"
+	},
+	"image_path": null,
+	"name": "Denver Kickers",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f04e"
+	},
+	"image_path": null,
+	"name": "FC Boulder",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f04f"
+	},
+	"image_path": null,
+	"name": "FC Brighton",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f05f"
+	},
+	"image_path": "/images/icon-colorado-rush_logo.png",
+	"name": "North Area Rush",
+	"partner": true,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f058"
+	},
+	"image_path": null,
+	"name": "Pike's Peak Rush",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f052"
+	},
+	"image_path": null,
+	"name": "Pride",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f054"
+	},
+	"image_path": null,
+	"name": "Real Colorado",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f053"
+	},
+	"image_path": null,
+	"name": "Real Colorado Edge",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f055"
+	},
+	"image_path": null,
+	"name": "Riverside",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f056"
+	},
+	"image_path": null,
+	"name": "Rocky Mountain Soccer Academy",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f059"
+	},
+	"image_path": null,
+	"name": "Skyline",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f05a"
+	},
+	"image_path": null,
+	"name": "Stingers",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f05b"
+	},
+	"image_path": null,
+	"name": "Trebol",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f05c"
+	},
+	"image_path": null,
+	"name": "Westminster",
+	"partner": false,
+	"sport": "Soccer"
+}, {
+	"_id": {
+		"$oid": "58bcf1f3d01e012086e8f05d"
+	},
+	"image_path": null,
+	"name": "Wheat Ridge Avalanche",
+	"partner": false,
+	"sport": "Soccer"
+}]
