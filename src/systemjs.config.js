@@ -40,6 +40,7 @@
       rxjs: {
         defaultExtension: 'js'
       }
-    }
+    },
+    baseURL: 'https://tessy2728.github.io/PosterGallery/src/'
   });
 })(this);
