@@ -40,6 +40,7 @@
       rxjs: {
         defaultExtension: 'js'
       }
-    }
+    },
+    baseURL: '/PosterGallery/'
   });
 })(this);
